@@ -37,13 +37,13 @@ void main() {
   print(dogs);*/
 
   ///CHALLENGE 2
-  /*int age = 16;
+  int age = 16;
   print(age);
   age = 30;
-  print(age);*/
+  print(age);
 
   ///CHALLENGE 3
-  /*const x = 46;
+  const x = 46;
   const y = 10;
   const answer1= (x * 100) + y;
   const answer2= (x * 100) + (y * 100);
@@ -52,16 +52,16 @@ void main() {
 
   print(answer1);
   print(answer2);
-  print(answer3);*/
+  print(answer3);
 
   ///CHALLENGE 4
-  /*const double rating1 = 44;
+  const double rating1 = 44;
   const double rating2 = 29;
   const double rating3 = 91;
 
   const double averageRating = ((rating3 + rating2 + rating1) / 3);
 
-  print(averageRating);*/
+  print(averageRating);
 
   ///CHALLENGE 5
   const double a = 3;
