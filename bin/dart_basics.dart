@@ -31,10 +31,10 @@ void main() {
 
   ///CHALLENGES
   ///CHALLENGE 1
-  /*const myAge = 21;
+  const myAge = 21;
   int dogs = 1;
   dogs += 1;
-  print(dogs);*/
+  print(dogs);
 
   ///CHALLENGE 2
   int age = 16;
